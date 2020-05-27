@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.2.0",
     "bootstrap": "^4.5.0",
+    "gh-pages": "^2.2.0",
     "rc-queue-anim": "^1.8.4",
     "rc-scroll-anim": "^2.7.4",
     "rc-tween-one": "^2.6.8",
